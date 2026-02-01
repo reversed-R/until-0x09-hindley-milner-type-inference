@@ -29,11 +29,29 @@ HP: [https://reversed-r.dev](https://reversed-r.dev)
 
 ---
 
+<style scoped>
+.pasokata {
+  text-align: right;
+  font-size: 20px;
+}
+</style>
+
 ## みなさんﾊﾟｿｶﾀしてますか？
+
+<p class="pasokata">[注]パソカタ: パソコンをカタカタする意。</p>
 
 ---
 
+<style scoped>
+.pasokata {
+  text-align: right;
+  font-size: 20px;
+}
+</style>
+
 ## みなさんﾊﾟｿｶﾀしてますか？
+
+<p class="pasokata">[注]パソカタ: パソコンをカタカタする意。</p>
 
 -> 私はパソ型してます。
 
