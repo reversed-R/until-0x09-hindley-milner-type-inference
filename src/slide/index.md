@@ -544,3 +544,6 @@ $$
 
 リポジトリはこちら
 -> [https://github.com/reversed-R/hindley-milner-type-inference/](https://github.com/reversed-R/hindley-milner-type-inference/)
+
+このスライドのリポジトリはこちら
+-> [https://github.com/reversed-R/until-0x09-hindley-milner-type-inference](https://github.com/reversed-R/until-0x09-hindley-milner-type-inference)
